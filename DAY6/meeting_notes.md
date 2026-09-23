@@ -22,6 +22,6 @@
 >
 >The remaining 7 tasks, #30166 through #30172, are created and ready for implementation. These cover "diagnostic settings", "inbound access restrictions", "Durable Orchestrator failure alerting", "Application Insights for the cost-ingestion app", "the Y1 Consumption tier decision", "Key Vault RBAC", and managed identity for the UUDRI apps.
 >
->Hey Maurice if you have time please have a look.
+>Sam added comment on Ticket #30165 so I'll work on it.
 >
 > There is No blockers from my side. That's all form my side Thankyou
