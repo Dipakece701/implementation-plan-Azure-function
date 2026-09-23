@@ -17,7 +17,7 @@
 # FOR AZURE FUNCTION IMPLEMNTATION 
 >AND update on the Azure Functions SRE remediation for QA.
 >
->Following the completion and verification of the DEV remediation, I’ve now kicked off the QA remediation work under Parent Story #30165, linked to the QA discovery story #26565.
+>Following the completion and verification of the DEV remediation, I’ve now move to the QA remediation work under Parent Story #30165, linked to the QA discovery story #26565.
 >
 >I have mapped all 8 identified QA gaps into ADO child tasks. Task #30174 for availability web tests is already closed, with Maurice’s Terraform deployment verified and both health endpoints returning HTTP 200.
 >
