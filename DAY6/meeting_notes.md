@@ -1,4 +1,5 @@
 # OPENINGS 
+# For Foundry Models
 >I completed the validation across DEV, QA, and PROD, and all three implementation plans are  approved by Sam.
 >
 >For DEV, I finalized the 3-phase approach for the P0 authentication issue — first audit the caller tokens, then deploy and validate an auth-enabled canary, and finally enforce authentication and ingress restrictions.
