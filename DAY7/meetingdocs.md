@@ -22,4 +22,4 @@
 >
 >So Both task #30166 and task#30168 are closed.
 >
->Next, I’ll start Task #30167 for inbound access restrictions,  No blockers from my side. Thats all form my side Thankyou
+>No blockers from my side. Thats all form my side Thankyou
