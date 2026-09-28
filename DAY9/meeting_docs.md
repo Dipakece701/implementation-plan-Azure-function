@@ -5,11 +5,11 @@
 >
 >clarifying the handling of UUDRI-Function-App-qa-01 and documenting the exact SCM property required to keep CI/CD deployments working.
 >
->I followed a staged rollout. First I piloted the "DenyPublicHttp" rule on "helios-qa-cost-ingestion" and verified that public requests return "**HTTP"** 403 while the SCM deployment endpoint remains accessible.
+>First I piloted the "Deny-Public-Http" rule on "helios-qa-cost-ingestion" and verified that public requests return "**HTTP"** 403 while the SCM deployment endpoint remains accessible.
 >
->Then I rolled the same restriction out to the remaining four background or idle apps, including the "UUDRI" applications.
+>Then I rolled the same restriction out to the remaining 4 background and idle apps, including the "UUDRI" applications.
 >
->After that, I ran positive probes across all 10 QA Function Apps. The 5 background or idle apps now return HTTP 403, while the 5 legitimate "public-facing" apps continue returning HTTP 200.
+>After that, I ran positive probes across all 10 QA Function Apps. The 5 background and idle apps now return HTTP 403, while the 5 legitimate "public-facing" apps continue returning HTTP 200.
 >
 >For CI/CD, I verified "scm-Ip-Security-Restrictions-Use-Main = false", so the SCM/Kudu endpoint maintains its separate access restriction rules and deployments are not blocked.
 >
