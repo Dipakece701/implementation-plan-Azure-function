@@ -1,5 +1,5 @@
 # OPENINGS
->Hi everyone, I am working on the Azure Function QA SRE remediation.
+>I am working on the Azure Function QA SRE remediation.
 >
 >I completed and verified Task #30167, Gap 6 — Inbound Access Restrictions.
 >
@@ -15,4 +15,6 @@
 >
 >So Task #30167 is fully implemented and verified live and closed in ADO.
 >
->No blockers from my side.
+>Next I am Working on Task 30172 #**Enable System-Assigned Managed Identity on QA UUDRI function apps**"
+>
+>No blockers from my side. Thats all form my side Thankyou
