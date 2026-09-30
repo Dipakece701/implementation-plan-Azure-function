@@ -2,7 +2,7 @@
 >I am working on Azure Functions PROD  remediation.
 >
 >I completed and verified the two tasks, #30848 and #30849.
->**For Task #30848: Diagnostic Settings**:
+>**For Task #30848: Configure diagnostic settings across all 8 PROD function apps**:
 >
 >The baseline was zero out of 8 PROD "Function Apps" with diagnostic settings.
 >
@@ -10,7 +10,7 @@
 >
 >Now all 8 out of 8 PROD "Function Apps" are streaming "FunctionAppLogs" and "AllMetrics" to the "helios-prod-logs" Log Analytics workspace.
 ------------------------------------------------
->**For Task #30849: Availability Web Tests:**
+>**For Task #30849: Verify availability web tests in PROD for kg-event-processor and ontology-event-processor:**
 >
 >Maurice deployed the synthetic tests through Terraform, and I completed the live verification.
 >
@@ -18,6 +18,6 @@
 >
 >Both tasks are complete and closed.
 >
->Next, I’ll move to Task #30847, wiring Application Insights for helios-prod-cost-ingestion, and then continue with the Durable Orchestrator alert.
+>Next, I’ll move to Task #30847, wiring Application Insights for helios-prod-cost-ingestion.
 >
 >No blockers from my side.
