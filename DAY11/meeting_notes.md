@@ -2,6 +2,7 @@
 >I am working on Azure Functions PROD  remediation.
 >
 >I completed and verified the two tasks, #30848 and #30849.
+>
 >**For Task #30848: Configure diagnostic settings across all 8 PROD function apps**:
 >
 >The baseline was zero out of 8 PROD "Function Apps" with diagnostic settings.
