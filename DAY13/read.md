@@ -3,7 +3,7 @@
 
 ## 1.  Brief Detail
 
-> *"Hi everyone, I have a major progress update on our Azure Functions Production SRE remediation:*
+> *" I have a major progress update on our Azure Functions Production SRE remediation:*
 >  
 > *Today, I completed and verified two critical security and architecture tasks, bringing our PROD story to **75% completion (6 out of 8 tasks complete and verified live)**:*
 >  
