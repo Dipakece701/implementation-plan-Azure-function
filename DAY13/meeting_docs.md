@@ -1,5 +1,5 @@
 # Openings
->Yesterday I am working on Azure Functions PROD remediation. I  completed two Ticket #30850 and #30851
+>I am working on Azure Functions PROD remediation. I  completed two Ticket #30850 and #30851
 >
 >**For Task #30850: Restrict inbound access on PROD function apps using caller-driven model:**
 >
