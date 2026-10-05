@@ -10,7 +10,9 @@
 ## And On the Observability part 
 > I Worked on 3 Task.
 >
-> **For AB#31394:"Function apps send no telemetry: private-only App Insights without VNet" and PR #595 **:
+> **For AB#31394:"Function apps send no telemetry: private-only App Insights without VNet"
+>
+> For this I created a PR #595 **:
 >
 > The three Consumption Function Apps to use the public "Application Insights" "ingestion" endpoint while still sending telemetry to the same central "helios-prod-log" workspace.
 >
