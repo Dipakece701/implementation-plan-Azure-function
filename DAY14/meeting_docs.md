@@ -10,17 +10,17 @@
 ## And On the Observability part 
 > I Worked on 3 Task.
 >
-> **For AB#31394, and PR #595 **:
+> **For AB#31394:"Function apps send no telemetry: private-only App Insights without VNet" and PR #595 **:
 >
 > The three Consumption Function Apps to use the public "Application Insights" "ingestion" endpoint while still sending telemetry to the same central "helios-prod-log" workspace.
 >
 > Now constatin add some comment so  I'll work on that.
 >
-> **For AB#31392, **:
+> **For AB#31392:Alert Slack relay returns NotFound (DEMO since 30 Sep, QA last 2 runs)  **:
 >
 > I enabled System-Assigned Managed Identity on the four Logic Apps across PROD and QA and updated the workflows to retrieve Slack webhook secrets from Key Vault using MSI, with secure output masking enabled. This removes the hardcoded webhook URLs.
 >
-> **For AB#31395**:
+> **For AB#31395: PROD UI App Service sends no telemetry (empty instrumentation key) **:
 >
 > the PROD UI Application Insights configuration has been prepared, and I’m currently waiting for Charles's confirmation before applying it in PROD.
 >
