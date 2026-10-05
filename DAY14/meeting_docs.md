@@ -24,8 +24,8 @@
 >
 > the PROD UI Application Insights configuration has been prepared, and I’m currently waiting for Charles's confirmation before applying it in PROD.
 >
-> So the main next steps i am working on comment. 
+> So the main next steps i am working on comment.
 >
->After that finish the remaining PROD Task promotion-drift item.
+>After this work i'll work on finish the remaining PROD Task promotion-drift item for Azure function.
 >
 > No blockers from my side.
