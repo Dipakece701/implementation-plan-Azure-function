@@ -14,7 +14,7 @@
 >
 > The three Consumption Function Apps to use the public "Application Insights" "ingestion" endpoint while still sending telemetry to the same central "helios-prod-log" workspace.
 >
-> Now constatin and some comment so  I'll work on that.
+> Now constatin add some comment so  I'll work on that.
 >
 > **For AB#31392, **:
 >
@@ -24,8 +24,8 @@
 >
 > the PROD UI Application Insights configuration has been prepared, and I’m currently waiting for Charles's confirmation before applying it in PROD.
 >
-> So the main next steps are to get the final approval and merge PR #595, complete the RBAC grants for the Logic Apps and run the synthetic alert tests.
+> So the main next steps i am working on comment. 
 >
-> And then finish the remaining PROD Task promotion-drift item.
+>After that finish the remaining PROD Task promotion-drift item.
 >
 > No blockers from my side.
