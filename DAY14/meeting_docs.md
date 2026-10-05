@@ -14,7 +14,7 @@
 >
 > The three Consumption Function Apps to use the public "Application Insights" "ingestion" endpoint while still sending telemetry to the same central "helios-prod-log" workspace.
 >
-> Now I am waiting for the required code-owner approval from Constantin before merge.
+> Now constatin and some comment so  I'll work on that.
 >
 > **For AB#31392, **:
 >
