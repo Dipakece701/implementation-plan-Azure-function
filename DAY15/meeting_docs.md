@@ -1,10 +1,10 @@
 # OPENINGS
 >yesterday I am working on  Observability part.
->The three foundational observability remediation items are now completed and closed in Azure Boards.
+>Three foundational observability remediation items are  completed and closed in Azure Boards.
 >
 >**For AB#31392:Alert Slack relay returns NotFound**
 >
->And PR #601 was merged into main. 
+>I created a PR #601 and that was merged into main. 
 >
 >All four Alert Slack Relay Logic Apps across QA and PROD to use "System-Assigned" Managed Identity and retrieve the Slack webhook secrets directly from Key Vault with least-privilege access.
 >
@@ -12,7 +12,7 @@
 -----------------------------------------------
 >**For AB#31394: Function apps send no telemetry: private-only App Insights without VNet **
 >
->And PR #595 was also merged.
+>I created a PR #595 and that was also merged.
 >
 >The two non-VNet PROD Function Apps, "kg-event-processor-prod" and "helios-github-activity-logger-prod-func", are now sending telemetry through the public Application Insights ingestion endpoint using Entra ID authentication and managed identity.
 >
