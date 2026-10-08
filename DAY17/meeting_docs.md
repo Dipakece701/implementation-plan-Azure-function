@@ -10,7 +10,7 @@
 Second, for the DEMO Observability work, AB#33227
 >The branch is rebased cleanly against main, including Maurice’s runner fixes. Both Slack relay Logic Apps have their System-Assigned Managed Identities active, and all CI validation is green with zero destructions across the environments.
 >
-> I have added the validation results and re-requested review from Soomin.
+> I have added the validation results and re-requested review to Soomin.
 >Once PR #558 gets approved, the plan is to merge it, apply the dm0 monitoring changes, then apply "dm0 grafana-alerts", and finally trigger synthetic alerts into the DEMO Slack channel to verify the complete flow.
 
 >So my focus is getting a approval on PR #558, deploying the DEMO Observability, and validating the synthetic alerts. 
