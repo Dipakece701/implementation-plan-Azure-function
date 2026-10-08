@@ -1,7 +1,7 @@
 # OPENINGS
 >yestday, I was working on Observability, Azure function  and Non aks Azure estate task.
 >
->**For Azure function First, PROD Gap 1, Ticket AB#30853, is now  closed. **
+>**For Azure function First, PROD Gap 1, Ticket AB#30853, is now  closed.**
 >
 >Constantin signed off on the narrower ADR and confirmed that the UUDRI workloads belong to Chenlu’s team and are outside our PROD drift scope. And EMS Plan Narration is running live in PROD with both "plan_narration_agent" and "realized_kpi_listener", and the SOP Factory promotion has been safely handed over to Sudhir under AB#28606.
 >
