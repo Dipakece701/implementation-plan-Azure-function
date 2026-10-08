@@ -10,7 +10,7 @@
 Second, for the DEMO monitoring work, AB#33227 and I created a PR #558, 
 >The branch is rebased cleanly against main, including Maurice’s runner fixes. Both Slack relay Logic Apps have their System-Assigned Managed Identities active, and all CI validation is green with zero destructions across the environments.
 >
-> I have published the validation results and re-requested review from Soomin.
+> I have added the validation results and re-requested review from Soomin.
 >Once PR #558 gets approved, the plan is to merge it, apply the dm0 monitoring changes, then apply "dm0 grafana-alerts", and finally trigger synthetic alerts into the DEMO Slack channel to verify the complete flow.
 ---------------------------------------------------------------
 Third, Non Aks Azure estate DEV  implementation plan
