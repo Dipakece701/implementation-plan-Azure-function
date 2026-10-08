@@ -14,7 +14,7 @@ Second, for the DEMO monitoring work, AB#33227 and I created a PR #558,
 >Once PR #558 gets approved, the plan is to merge it, apply the dm0 monitoring changes, then apply "dm0 grafana-alerts", and finally trigger synthetic alerts into the DEMO Slack channel to verify the complete flow.
 ---------------------------------------------------------------
 Third, Non Aks Azure estate DEV  implementation plan
->I added Revision 5 based on the latest live Azure.
+>I added Revision based on the latest live Azure.
 >
 >Constantin reviewed it and approved to start "GAP-003" diagnostic settings and "GAP-010" Application Insights in Terraform, but we need to provide the expected log ingestion volume and cost estimate first. The other GAP are being held for team review.
 >
