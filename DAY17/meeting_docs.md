@@ -13,6 +13,8 @@ Second, for the DEMO Observability work, AB#33227
 > I have added the validation results and re-requested review to Soomin.
 >Once PR #558 gets approved, the plan is to merge it, apply the dm0 monitoring changes, then apply "dm0 grafana-alerts", and finally trigger synthetic alerts into the DEMO Slack channel to verify the complete flow.
 
+> Sommin added few commentd on PR 558. I'll work on that.
+> 
 >So my focus is getting a approval on PR #558, deploying the DEMO Observability, and validating the synthetic alerts. 
 >No blockers from my side.
 >
