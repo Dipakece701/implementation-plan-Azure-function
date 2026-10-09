@@ -7,7 +7,7 @@
 >
 >Second, I validated all five Terraform plans — dm0 monitoring, dm0 grafana-alerts, dev, qa, and prod. All five passed successfully with zero destructions, and the latest results are published in PR comment #6069328753.
 >
->The current status is waiting for Soomin’s approval. Once the approval comes through, the deployment sequence is to merge PR #558, apply "dm0 monitoring", then "dm0 grafana-alerts", and finally send a synthetic test alert through "ag-helios-dm0-ops" to verify it reaches the DEMO Slack channel.
+>The PR 558 is Approved and the deployment sequence is to merge PR #558, apply "dm0 monitoring", then "dm0 grafana-alerts", and finally send a synthetic test alert through "ag-helios-dm0-ops" to verify it reaches the DEMO Slack channel.
 >
 >I also have AB#33436 queued next for the DEMO Function App telemetry issue, which follows the same approach we used for the PROD telemetry fix.
 >
