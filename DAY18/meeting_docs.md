@@ -5,7 +5,7 @@
 >
 >And  I also completed the requested Terraform formatting and cleanup changes and updated the PR documentation for the existing "DM0_GRAFANA_API_KEY secret".
 >
->Second, I validated all five Terraform plans — dm0 monitoring, dm0 grafana-alerts, dev, qa, and prod. All five passed successfully with zero destructions, and the latest results are published in PR comment #6069328753.
+>Second, I validated all five Terraform plans — dm0 monitoring, dm0 grafana-alerts, dev, qa, and prod. All five passed successfully with zero destructions, and the latest results are published in PR comment.
 >
 >The PR 558 is Approved and the deployment sequence is to merge PR #558, apply "dm0 monitoring", then "dm0 grafana-alerts", and finally send a synthetic test alert through "ag-helios-dm0-ops" to verify it reaches the DEMO Slack channel.
 >
