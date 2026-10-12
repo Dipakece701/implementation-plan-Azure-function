@@ -1,7 +1,7 @@
 # OPENINGS
 >Friday, I worked on observability task.
 >
-> Ticket AB#33227, is now successfully deployed and verified. And PR #558 was merged into main,and I also resolved an initial Terraform apply failure by identifying a deleted Entra ID user in the Grafana admin role assignment.I worked with Soomin on PR #650 to remove that stale user while preserving the Helios-DevOps-Team group. PR #650 was approved and merged successfully.
+> **Ticket AB#33227 "DEMO: land dm0 monitoring (#558) on the new relay design and apply it"**, IS now successfully deployed and verified. And PR #558 was merged into main,and I also resolved an initial Terraform apply failure by identifying a deleted Entra ID user in the Grafana admin role assignment.I worked with Soomin on PR #650 to remove that stale user while preserving the Helios-DevOps-Team group. PR #650 was approved and merged successfully.
 >
 >After that, both the dm0 monitoring and dm0 grafana-alerts Terraform applies completed successfully. And I also verified the three required reader role assignments on the Grafana managed identity, resolving the "Insufficient-Access-To-Resource" dashboard errors.
 >
