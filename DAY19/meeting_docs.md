@@ -7,7 +7,6 @@
 >
 > Then I triggered a synthetic alert through "ag-helios-dm0-ops" and confirmed that it was successfully delivered to "#helios-demo-alerts" through the Slack relay Logic App.
 >
->And I also accepted daily ownership of #helios-demo-alerts for alert triage and noise management.
 >
 >Next, I am going to start work on Ticket  AB#33436, which applies the same Application Insights telemetry fix we used in PROD to the DEMO Function Apps.
 >
