@@ -1,5 +1,3 @@
----
-
 ## 1. Executive Summary & Major Milestones
 
 1. **Strategic Pivot: Application Insights Consolidation ([AB#34086]):**
