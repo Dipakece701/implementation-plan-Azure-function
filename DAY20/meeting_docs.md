@@ -3,9 +3,9 @@
 >
 >Instead of creating a separate public Application Insights instance, we decided to use the existing "platform-backend-insights-dm0" as the single telemetry destination.
 >
->The earlier PR #653 was closed as superseded, and also worked on PR #655 to enable public ingestion on the existing component.
+>The PR #653 was closed as superseded, and also worked on PR #655 to enable public ingestion on the existing component.
 >
->Soomin approved PR #655, and it has now been merged into main. We also kept the AMPLS ingestion mode set to PrivateOnly to preserve the security boundary for VNet-connected workloads.
+>And PR #655, merged into main. We also kept the AMPLS ingestion mode set to PrivateOnly to preserve the security boundary for VNet-connected workloads.
 >
 >The Terraform apply completed successfully in three seconds, with zero resources added or destroyed and one resource changed.
 -------------------------------------------
