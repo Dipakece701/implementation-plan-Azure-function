@@ -3,7 +3,7 @@
 >
 >Instead of creating a separate public Application Insights instance, we decided to use the existing "platform-backend-insights-dm0" as the single telemetry destination.
 >
->The PR #653 was closed as superseded, and also worked on PR #655 to enable public ingestion on the existing component.
+>The PR #653 was closed as superseded, and also worked on PR #655 is (open public ingestion on "platform-backend-insights-dm0").
 >
 >And PR #655, merged into main. We also kept the AMPLS ingestion mode set to PrivateOnly to preserve the security boundary for VNet-connected workloads.
 >
