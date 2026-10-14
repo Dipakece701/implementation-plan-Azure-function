@@ -11,7 +11,7 @@
 >
 >I also addressed Soomin’s review comments.We separated the rollout into two phases: first, deploy the RBAC permissions; then, after allowing time for permission propagation, enable Entra ID authentication.
 >
->Currently, PR #663 is ready for re-review. All checks are green, the review comments have been addressed, and I’ve requested Soomin’s approval.
+
 >
 >Next steps are to merge the PR, apply the RBAC changes across all five stacks,, wait for permission propagation, and then enable Entra ID authentication
 >
