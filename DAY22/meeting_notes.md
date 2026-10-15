@@ -14,7 +14,7 @@
 >
 >And I also confirmed that Kubernetes webhook reinvocation supports token injection into the sidecar.
 >
->Next, I’ll align with the team on Terraform role-assignment placement, prepare the RBAC changes for the 17 identities, and update the sidecar configuration.
+>Next, I’ll align with Soomin on Terraform role-assignment placement, prepare the RBAC changes for the 17 identities, and update the sidecar configuration.
 
 >The proposed rollout starts with tariff-api as the canary before restarting the remaining workloads.
 
