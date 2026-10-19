@@ -15,6 +15,6 @@
 >
 >For AB#34089, the OpenTelemetry Workload Identity investigation and inventory are complete.I mapped 22 AKS services to 17 managed identities. I’m waiting for confirmation from Soomin on where to define the Terraform role assignments before raising the implementation PR.
 >
->My next steps are to follow up on PR #689, progress the 17 role assignments once placement is confirmed, and coordinate with Aditya before starting AB#34091 to avoid Terraform state-lock conflicts.
+>My next steps are to follow up on PR #689, progress the 17 role assignments once placement is confirmed.
 >
 >No blocker from my side.
