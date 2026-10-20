@@ -9,7 +9,7 @@
 >
 >I prepared the Incident Procedure v1.0, the scenario brief, and the live-notes template.
 >
->The exercise covers two scenarios: an APIM HTTP 5xx spike and unauthorized Key Vault secret retrieval. The session is planned for Wednesday, October 22, from 10:15 to 11:15 AM.
+>The exercise covers two scenarios: an APIM HTTP 5xx spike and unauthorized Key Vault secret retrieval. The session is planned for Wednesday, October 21, from 10:15 to 11:15 AM.
 >
 >**For AB#34089,** Soomin confirmed Option A for the AKS Workload Identity implementation. We’ll define the 17 Monitoring Metrics Publisher role assignments in terraform/stacks/aks/main.tf, alongside the managed identities.
 >
