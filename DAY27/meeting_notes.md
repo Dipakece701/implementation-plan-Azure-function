@@ -1,5 +1,5 @@
 # OPENINGS
->Yesterday I worked on Ticket AB#34970, I’ve finalized the SRE tabletop exercise for today.
+>Yesterday I worked on Ticket AB#34970, I’ve finalized the SRE tabletop exercise for This.
 >
 > I incorporated Constantin’s feedback into the Incident Response Procedure v1.0, the scenario brief, and the live-notes template.
 >
