@@ -5,6 +5,8 @@
 >
 >The exercise covers two scenarios: an APIM 5xx reliability incident and a Key Vault security detection gap. I’ve confirmed the responder roles and shared the pre-read materials with the team.
 >
+>I reschedule the tabletop meeting on monday.
+>
 >For AB#35261, I have aligned the Phase 1 PROD observability roadmap ahead of the November 11 target.
 >
 >After the tabletop meeting, I’ll start Working on Ticket AB#35265, covering gateway failure-rate and UI/gateway availability alerts. Next will be Ticket AB#35266 for AKS pod crash loops, restart spikes, and zero-ready-pod alerts, followed by Ticket AB#35264 for Fabric capacity pause and throttling alerts.
